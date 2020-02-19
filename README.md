@@ -1,7 +1,7 @@
 # SSDM-JSDM
 This repository contains all codes to reproduce the results presented in: 
 
-Zurell et al. (2019) Testing species assemblage predictions from stacked and joint species distribution models. Journal of Biogeography. DOI: [10.1111/jbi.13608](https://doi.org/10.1111/jbi.13608).
+Zurell et al. (2020) Testing species assemblage predictions from stacked and joint species distribution models. Journal of Biogeography 47: 101-113. DOI: [10.1111/jbi.13608](https://doi.org/10.1111/jbi.13608).
 
 Data Availability Statement: The species data were provided by courtesy of the Swiss Ornithological Institute and the Swiss Forest Inventory. The presence–absence data (with geographical coordinates removed) and the environmental predictor data are available on Dryad (https://doi.org/10.5061/dryad.k88v330). 
 
